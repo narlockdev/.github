@@ -1,13 +1,4 @@
-### narlock learning
-
-| Repository | Language | Information |
-| ------------- | ------------- | ------------- |
-| java-archive | Java | TBD |
-| python-archive | Python | TBD | 
-| assembly-archive | MIPS Aseembly | TBD |
-| ocaml-archive | OCaml | TBD | 
-
-### University programming-relevant courses I've taken
+### Programming-relevant courses I've taken
 
 | Course ID | Course Name | Language(s) |
 | ------------- | ------------- | ------------- |
