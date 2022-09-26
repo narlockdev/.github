@@ -9,10 +9,10 @@
 | CSCI 2061 | Python for Programmers | Python, HTML, SQL (SQLite 3) |
 | CSCI 2014 | Organization of Computer Systems | Assembly |
 | CSCI 2041 | Advanced Programming Principles | OCaml |
-| CSCI 4041 | Algorithms | N/A |
 | CSCI 3081 | Program Design & Development | C++ |
-| CSCI 4131 | Internet Programming | HTML, CSS, JavaScript, SQL (MySQL), Python, PHP |
+| CSCI 4041 | Algorithms | N/A |
 | CSCI 4061 | Operating Systems | C |
+| CSCI 4131 | Internet Programming | HTML, CSS, JavaScript, SQL (MySQL), Python, PHP |
 | CSCI 4211 | Computer Networking | Python |
 | CSCI 4511 | Artificial Intelligence | Python |
 | CSCI 4611 | Interactive Graphics | Typescript |
