@@ -2,6 +2,7 @@
 
 | Course ID | Course Name | Language(s) |
 | ------------- | ------------- | ------------- |
+| N/A | AP Computer Science A | Java |
 | CSCI 1081 | Programming Fundamentals | C/C++ |
 | CSCI 1082 | Object Oriented Programming | Java |
 | CSCI 2082 | Data Structures | Java |
