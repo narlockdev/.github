@@ -9,7 +9,7 @@
 | CSCI 2041 | Advanced Programming Principles | OCaml |
 | CSCI 2061 | Python for Programmers | Python, HTML, SQL (SQLite 3) |
 | CSCI 2082 | Data Structures | Java |
-| CSCI 3081 | Program Design & Development | C++ |
+| CSCI 3081 | Program Design & Development | C++, HTML, JavaScript |
 | CSCI 4041 | Algorithms | N/A |
 | CSCI 4061 | Operating Systems | C |
 | CSCI 4131 | Internet Programming | HTML, CSS, JavaScript, SQL (MySQL), Python, PHP |
