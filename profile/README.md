@@ -6,7 +6,7 @@
 | N/A | AP Computer Science A | Java | [java-archive](https://github.com/narlock-learning/java-archive) |
 | CSCI 1081 | Programming Fundamentals | C++, C | [cpp-archive](https://github.com/narlock-learning/cpp-archive) |
 | CSCI 1082 | Object Oriented Programming | Java | [java-archive](https://github.com/narlock-learning/java-archive) |
-| CSCI 2014 | Organization of Computer Systems | Assembly | [assembly-archive](https://github.com/narlock-learning/assembly-archive) |
+| CSCI 2014 | Organization of Computer Systems | x86 Assembly | [assembly-archive](https://github.com/narlock-learning/assembly-archive) |
 | CSCI 2041 | Advanced Programming Principles | OCaml | [ocaml-archive](https://github.com/narlock-learning/ocaml-archive) |
 | CSCI 2061 | Python for Programmers | Python, HTML, SQL (SQLite 3) | [python-archive](https://github.com/narlock-learning/python-archive) |
 | CSCI 2082 | Data Structures | Java | [java-archive](https://github.com/narlock-learning/java-archive) |
